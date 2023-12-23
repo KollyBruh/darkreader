@@ -14,7 +14,7 @@
 - Fixed Site List migration.
 - Reduced image analysis memory usage.
 
-## 4.9.70 (November 22, 2023)
+## 4.9.70 (November 23, 2023)
 
 - Fixed clearing site lists when synchronization is disabled.
 
